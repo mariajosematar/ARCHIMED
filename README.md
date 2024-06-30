@@ -1,7 +1,7 @@
 # ARCHIMED Invoice Automation
 
 ## Introduction
-Welcome to the Engineering team at ARCHIMED! ARCHIMED is a healthcare private equity company that wishes to automate its routine business workflow to the greatest extent possible. This project aims to automate the process of sending invoices as part of the capital call to investors.
+This project aims to automate the process of sending invoices as part of the capital call to investors.
 
 ## Problem Statement
 The company currently sends invoices manually using Excel files, which leads to redundancy and maintenance issues. The goal is to build a product that automates the process of generating and managing invoices.
